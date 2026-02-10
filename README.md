@@ -1,8 +1,6 @@
-<h1 align="center">Hi!</h1>
-
-I am Fatir. I am an undergraduate student double majoring in Computer Science & Statistics @UofT. 
-
-I have interest in developing analytics platforms, full-stack research systems, and machine learning data-driven tools to gather practical insights.
+<h1 align="center">Hi, I am Fatir!</h1>
+I am an undergraduate student double majoring in Computer Science & Statistics @UofT.
+I have interest in developing analytics platforms, full-stack research systems, and machine learning data-driven tools to find intricate insights.
 
 ---
 
@@ -25,20 +23,16 @@ I have interest in developing analytics platforms, full-stack research systems, 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
----
-
-## Data & AI
+## Analytics & AI
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
-
----
 
 ## Infrastructure
 
@@ -56,15 +50,17 @@ I have interest in developing analytics platforms, full-stack research systems, 
 </p>
 
 ---
-
 ## Contact
 
-<p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
-  </a>
-</p>
+<div align="left">
+
+<a href="mailto:m.fatir@mail.utoronto.ca">
+<img src="https://img.shields.io/badge/Email-m.fatir%40mail.utoronto.ca-6C757D?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br>
+<a href="https://www.linkedin.com/in/muhammad-fatir-110b7025a/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Fatir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
